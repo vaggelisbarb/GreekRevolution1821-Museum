@@ -208,7 +208,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: 
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 2100000, guid: 666d59a70715eee48bb919dbc3f1c9d4, type: 2}
+  materialToPut: {fileID: 2100000, guid: f046240865af6f84f9b6a2b84a09eb5f, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &21838372
 BoxCollider:
@@ -221,8 +221,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5, y: 10, z: 5}
-  m_Center: {x: 0, y: 0, z: -2.5}
+  m_Size: {x: 4.999999, y: 9.999998, z: 4.1263127}
+  m_Center: {x: -0.00000001505759, y: 0, z: -2.0631564}
 --- !u!1 &25622583
 GameObject:
   m_ObjectHideFlags: 0
@@ -2569,7 +2569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.youtube.com/watch?v=Ig224sC9CgM&ab_channel=%CE%95%CE%A1%CE%A4%CE%91.%CE%95.
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: eb50610b37c1fb84f8cd369509def560, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &183573593
 BoxCollider:
@@ -2812,7 +2812,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.youtube.com/watch?v=Ig224sC9CgM&ab_channel=%CE%95%CE%A1%CE%A4%CE%91.%CE%95.
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: ca6969b65f0a6a740a0c0883176bdbd5, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &210000439
 BoxCollider:
@@ -3575,7 +3575,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.sansimera.gr/biographies/1259
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: f52aaded461b06c47aaa4ba4c4f26970, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &296628956
 BoxCollider:
@@ -3653,7 +3653,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: 
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 2100000, guid: 840f7a927736c3b499e12a6cc10a711a, type: 2}
+  materialToPut: {fileID: 2100000, guid: 9d06ba6d7b8adc143847c82ca75e1daa, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &297339396
 BoxCollider:
@@ -5464,7 +5464,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.youtube.com/watch?v=Ig224sC9CgM&ab_channel=%CE%95%CE%A1%CE%A4%CE%91.%CE%95.
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: fd6c0f14aa8d8124d8977eb4856bac16, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &447018283
 BoxCollider:
@@ -5477,8 +5477,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5, y: 10, z: 2.9044867}
-  m_Center: {x: 0, y: 0, z: -1.4522433}
+  m_Size: {x: 4.999999, y: 9.999998, z: 4.0169954}
+  m_Center: {x: -0.00000024044465, y: 0, z: -2.0084982}
 --- !u!1001 &449105887
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7479,7 +7479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c518f7b8f4cb1c1499a591bb9ba6c4dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  urlToOpen: 
+  urlToOpen: https://www.sansimera.gr/biographies/809
   objectToShow: {fileID: 856304243}
   materialToPut: {fileID: 2100000, guid: 666d59a70715eee48bb919dbc3f1c9d4, type: 2}
   text: {fileID: 1015806775}
@@ -7659,7 +7659,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: 
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 2100000, guid: 666d59a70715eee48bb919dbc3f1c9d4, type: 2}
+  materialToPut: {fileID: 2100000, guid: db775f54840bc0148a6f5b13c0538d34, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &679199728
 BoxCollider:
@@ -9405,7 +9405,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: 
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 2100000, guid: 666d59a70715eee48bb919dbc3f1c9d4, type: 2}
+  materialToPut: {fileID: 2100000, guid: d17e1d1f255576f4aabad49acbf48013, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &797586997
 BoxCollider:
@@ -10808,7 +10808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.youtube.com/watch?v=Ig224sC9CgM&ab_channel=%CE%95%CE%A1%CE%A4%CE%91.%CE%95.
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: 865005f6f4153e74bb62d642968006a3, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &902492616
 BoxCollider:
@@ -14894,7 +14894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c518f7b8f4cb1c1499a591bb9ba6c4dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  urlToOpen: 
+  urlToOpen: https://www.sansimera.gr/biographies/341
   objectToShow: {fileID: 856304243}
   materialToPut: {fileID: 2100000, guid: 726871a7fa1c58844805ff7200771a5d, type: 2}
   text: {fileID: 1015806775}
@@ -17569,7 +17569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.youtube.com/watch?v=Ig224sC9CgM&ab_channel=%CE%95%CE%A1%CE%A4%CE%91.%CE%95.
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: bb8dc2f713ab1b54691eefa342ec4455, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &1445703876
 BoxCollider:
@@ -18043,7 +18043,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.sansimera.gr/biographies/1259
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: 73c2a993f06f23f46923394c9f7459bb, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &1483127708
 BoxCollider:
@@ -18056,8 +18056,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 5, y: 10, z: 5}
-  m_Center: {x: 0, y: 0, z: -2.5}
+  m_Size: {x: 5, y: 10, z: 3.4455519}
+  m_Center: {x: 0, y: 0, z: -1.7227759}
 --- !u!1 &1487163197
 GameObject:
   m_ObjectHideFlags: 0
@@ -22085,7 +22085,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   urlToOpen: https://www.sansimera.gr/biographies/1259
   objectToShow: {fileID: 856304243}
-  materialToPut: {fileID: 0}
+  materialToPut: {fileID: 2100000, guid: 80b6103f9322ba746b51485be6a07bfc, type: 2}
   text: {fileID: 1015806775}
 --- !u!65 &1816236574
 BoxCollider:
@@ -23902,7 +23902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1200, y: 600}
